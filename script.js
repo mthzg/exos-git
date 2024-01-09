@@ -19,6 +19,10 @@ let isRainy = true; //true
 let isSunny = !isRainy; //false !isRainy = not
 let isWeather = isRainy || isSunny; //true || = or
 let isRainbow = isRainy && isSunny; //false && = and
+
+function nomdelafonction (x,x,x {
+};
+
 */
 let fabriquant = {
   name: "bic",
@@ -52,3 +56,6 @@ let tableau = [1, 2, 3, 4, "hello"];
 console.log(tableau[4][3]);
 console.log(tableau.length);
 console.log(tableau);
+
+console.log("test");
+
